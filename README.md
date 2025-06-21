@@ -109,7 +109,7 @@ Create `config/api_keys.json`:
 
 ### Starting the Application
 ```bash
-python bizwiz_dashboard.py
+python D52.py
 ```
 
 The dashboard will be available at `http://127.0.0.1:8051` (or next available port).
